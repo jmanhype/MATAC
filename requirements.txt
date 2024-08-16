@@ -1,0 +1,4 @@
+dspy
+python-dotenv
+transitions
+asyncio
